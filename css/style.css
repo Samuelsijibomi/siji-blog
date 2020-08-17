@@ -1706,6 +1706,10 @@ ol {
   Blog Hero
 -----------------------*/
 
+.aubua {
+	color: blue;
+}
+
 .blog-hero-section {
 	height: 600px;
 	display: -webkit-box;
